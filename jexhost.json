@@ -21,6 +21,11 @@
       "required": false,
       "value": "256777205718"
     },
+"PREFIX": {
+  "description": "Command prefix character",
+  "required": false,
+  "value": "."
+},
     "MODE": {
       "description": "'public' to respond to everyone, 'private' to respond to the owner only",
       "required": false,
