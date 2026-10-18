@@ -1,0 +1,30 @@
+{
+  "bot-name": "PRIME-RIDZ",
+  "owner-verification": "theronaomi@gmail.com",
+  "tagline": "Advanced Whatsapp bot made with much love from Uganda",
+  "documentation-link": "https://github.com/ridzcoder/PRIME-RIDZ#readme",
+  "session-helper-url": "https://session.ridzcoder.xyz",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Session id must start with: Rclabs~",
+      "required": true,
+      "value": ""
+    },
+    "OWNER_NAME": {
+      "description": "Put Owner Name Here",
+      "required": false,
+      "value": "Ridz Coder"
+    },
+    "OWNER_NUMBER": {
+      "description": "Put only one Owner Number Here",
+      "required": false,
+      "value": "256777205718"
+    },
+    "MODE": {
+      "description": "'public' to respond to everyone, 'private' to respond to the owner only",
+      "required": false,
+      "value": "public"
+    }
+  }
+}
