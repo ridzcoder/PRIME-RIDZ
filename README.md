@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">NEBULA MD</h1>
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">PRIME RIDZ</h1>
 </p>
 
 <p align="center">
@@ -9,15 +9,14 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/Ridzcoder/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ridz-coder01?color=00ffff&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/Ridz-coder01/NEBULA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ridz-coder01/NEBULA-MD?color=00ffff&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/Ridz-coder01/NEBULA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ridz-coder01/NEBULA-MD?color=00ffff&style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="https://github.com/Ridz-coder01/NEBULA-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Ridz-coder01/NEBULA-MD?style=for-the-badge&color=00ffaa&logo=docusign&logoColor=white"></a>
-  <a href="https://github.com/Ridz-coder01/NEBULA-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+  <a href="https://github.com/Ridzcoder/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ridzcoder?color=00ffff&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Ridzcoder/PRIME-RIDZ/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ridzcoder/PRIME-RIDZ?color=00ffff&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/Ridzcoder/PRIME-RIDZ/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ridzcoder/PRIME-RIDZ?color=00ffff&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/Ridzcoder/PRIME-RIDZ/"><img title="Size" src="https://img.shields.io/github/repo-size/Ridzcoder/PRIME-RIDZ?style=for-the-badge&color=00ffaa&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/Ridzcoder/PRIME-RIDZ/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NEBULA-MD&label=VISITORS&style=flat-square&color=00ffff" /> 
+<p align="center"> 
 
 <!-- ✨ HOLOGRAPHIC ANIMATED HEADER -->
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -28,26 +27,23 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 ```
 ---
 
-> **CURRENT BOT VERSION ➜ `1.0.0. ⚡`**
+> **CURRENT BOT VERSION ➜ `3.0.1 BETA ⚡`**
 ---
 
-<a><img src='https://files.catbox.moe/t1ae76.jpg'/></a>
+<a><img src='https://files.catbox.moe/oyadfh.png'/></a>
 
 <!-- ⚡ TYPING EFFECT -->
 <p align="center">
-<a href="https://github.com/RIDZ-CODER01">
+<a href="https://github.com/RIDZCODER">
 <img src="http://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&width=550&lines=🚀+Multi-Functional+WhatsApp+Bot;🎯+Next-Gen+Automation+For+WhatsApp;💎+By+Ridz+Coder" alt="Typing Animation">
 </a>
 </p>
 
 ---
 ## 📡 DEPLOYMENT SITES
-> [!IMPORTANT]
-> 
-> You must put your bot number in the `settings.js` on line 11 for the bot to work.
 
 <p align="center">
-Deploy <strong>NEBULA MD</strong> on your preferred platform.
+Deploy <strong>PRIME-RIDZ</strong> on your preferred platform.
 </p>
 
 <p align="center">
